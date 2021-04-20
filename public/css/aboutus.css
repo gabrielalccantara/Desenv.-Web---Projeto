@@ -1,0 +1,7 @@
+.main-content{
+	width: 40%;
+	border-radius: 60px;
+	box-shadow: 2px 8px 5px rgba(0,2,3,.4);
+	margin: 10em auto;
+	display: flex; 
+}
